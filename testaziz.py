@@ -1,2 +1,2 @@
 print("hello world")
-import panda
+import pandas as t
